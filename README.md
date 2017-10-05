@@ -1,5 +1,5 @@
 # Formation
-## Repository for M1 training
+## Depôt formation M1
 
 ### Etapes pour installer git:
 
