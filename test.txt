@@ -1,7 +1,0 @@
-test
-test 2
-test 3 sur branche test
-test 4
-test 5
-test 7
-test 6 Je veux provoquer un conflit
