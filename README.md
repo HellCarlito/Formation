@@ -1,4 +1,4 @@
-# Formation
+# Formation de formateurs
 ## Depôt formation M1
 
 ### Etapes pour installer git:
